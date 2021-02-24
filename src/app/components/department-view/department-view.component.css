@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-title {
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 10px 0;
+}
+
+.bi {
+    margin: 0px 4px;
+}
+
+.bi .bi-eye {
+    color: turquoise;
+}
+
+.bi .bi-pencil-square {
+    color: green;
+}
+
+.padding-0 {
+    padding: 0px;
+}

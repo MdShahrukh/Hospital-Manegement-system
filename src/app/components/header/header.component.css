@@ -1,0 +1,8 @@
+header {
+    height: 46px;
+    background-color: cornflowerblue;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
